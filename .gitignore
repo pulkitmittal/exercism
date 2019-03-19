@@ -1,0 +1,2 @@
+# No need to add files under elm-stuff to git
+elm/**/elm-stuff
